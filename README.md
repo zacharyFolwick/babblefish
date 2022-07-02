@@ -1,3 +1,8 @@
+# Prerequisites
+A mac.  I'm so sorry.  I'll make it more cross-platform later. Hopefully. I'll probably just generate a web api. This is just a little thing I whipped out on a Friday night because I was bored during a heat wave.
+
+* ffmpeg - just run `brew install ffmpeg` and wait for the install to complete.  I use this to cut up the base mp3 file.
+
 # How it works
 
 `sayit.sh` takes in ascii text and converts it into mp3, outputting it to the current working directory.
